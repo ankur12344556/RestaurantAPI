@@ -4,4 +4,4 @@
 /api/category
 
 
-/api/menu_items
+/api/menu-items
